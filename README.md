@@ -3,7 +3,7 @@
 
 ## Thanks to
 
-[react-native-modest-cache](https://github.com/tiaanduplessis/react-native-modest-cache) 
+[react-native-modest-cache](https://github.com/tiaanduplessis/react-native-modest-cache), 
 [react-native-modest-storage](https://github.com/tiaanduplessis/react-native-modest-storage) 
 
 ## Usage
