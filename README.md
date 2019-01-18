@@ -1,10 +1,15 @@
 
 <h1 align="center">💾 react-native-Async-Cache</h1>
 
+## Thanks to
+
+[react-native-modest-cache](https://github.com/tiaanduplessis/react-native-modest-cache) 
+[react-native-modest-storage](https://github.com/tiaanduplessis/react-native-modest-storage) 
+
 ## Usage
 
 ```js
-import cache from 'react-native-modest-cache'
+import cache from './lib'
 
 cache.set('foo', 5, -5) // (key, value, expiryDateInMinutes)
 cache.set('bar', 90) // Default to 60 min
